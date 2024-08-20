@@ -1,5 +1,5 @@
 {
-    "project": "author",
+    "project": "aem-block-collection",
     "plugins": [
       {
         "id": "library",
